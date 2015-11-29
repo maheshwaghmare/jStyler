@@ -3,4 +3,4 @@ jQuery is used for CSS generator. It's used for applications which are related w
 
 ## How to use?
 
-<code> <div data-style='{"background-color":"red","color":"orange"}'>jStyler</div></code>
+<code> &gt;div data-style='{"background-color":"red","color":"orange"}'&lt;jStyler&gt;/div&lt; </code>
